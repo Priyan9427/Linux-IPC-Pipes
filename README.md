@@ -1,9 +1,7 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-
 # Ex03-Linux IPC - Pipes
-
 # AIM:
 To write a C program that illustrate communication between two process using unnamed and named pipes
 
